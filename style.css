@@ -1,0 +1,31 @@
+#what_I_love{
+    text-align: center;
+    font-style: oblique;
+}
+#why_I_love_it{
+    font-size: 24px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    color: black;
+}
+body{
+        background-color: cornflowerblue;
+    text-align: center;
+}
+.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+    font-size: 25px;
+}
+#why_minecraft_is_my_favourit_game{
+    font-size: 24px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h1 {
+    font-size: 30px;
+}
+html{
+    scroll-behavior: smooth;
+}
